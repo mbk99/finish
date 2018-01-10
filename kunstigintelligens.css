@@ -142,8 +142,10 @@ footer {
 
 h2 {
     font-size: 15px;
-    text-align: left;
+    font-weight: normal;
+    font-family: Avenir, sans-serif;
     color: white;
+    text-align: center;
 }
 
 h3 {
